@@ -1,0 +1,7 @@
+[server]
+headless = true
+port = 8501
+enableCORS = false
+
+[packages]
+apt_get = ["build-essential", "python3-dev", "libatlas-base-dev"]
