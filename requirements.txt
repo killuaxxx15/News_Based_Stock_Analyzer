@@ -7,4 +7,3 @@ google-generativeai
 streamlit
 python-dotenv
 newsapi-python
-talib
