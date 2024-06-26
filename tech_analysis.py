@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from ta-lib-bin import RSI, EMA, stream
+from talib import RSI, EMA, stream
 from ta.volatility import KeltnerChannel
 
 class TechAnalysis:
