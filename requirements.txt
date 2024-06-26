@@ -1,0 +1,7 @@
+pandas
+openpyxl
+ta
+yfinance
+beautifulsoup4
+google-generativeai
+streamlit
