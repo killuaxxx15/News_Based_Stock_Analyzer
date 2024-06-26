@@ -1,10 +1,9 @@
 pandas
 openpyxl
-ta
+pandas_ta
 yfinance
 beautifulsoup4
 google-generativeai
 streamlit
 python-dotenv
 newsapi-python
-ta-lib-bin
