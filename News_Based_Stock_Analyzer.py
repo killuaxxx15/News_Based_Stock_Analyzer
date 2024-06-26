@@ -5,6 +5,9 @@ import os
 from news_tech_traders import nt
 import time
 
+from dotenv import load_dotenv
+load_dotenv()
+
 st.set_page_config(layout="wide")
 bgs = [
     "#8B0000","#B22222","#DC143C","#FF4500", "#FF6347","#FF7F50","#FFA07A","#FFD700", "#ADFF2F","#008000"
