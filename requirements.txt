@@ -1,9 +1,10 @@
 pandas
 openpyxl
-pandas_ta
+pandas_ta==0.3.14b0
 yfinance
 beautifulsoup4
 google-generativeai
 streamlit
 python-dotenv
 newsapi-python
+numpy==1.21.0
